@@ -47,4 +47,4 @@ pipeline {
             echo 'Example : if the Pipeline was previously failing but is now successful'
         }
     }
-}				
+}			
